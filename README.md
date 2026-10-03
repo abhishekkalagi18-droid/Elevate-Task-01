@@ -1,6 +1,5 @@
 # Elevate Task 01 — Local Network Port Scanning
 
-## 1. Problem Statement
 
 Network services running on devices can expose systems to security risks when they are unnecessary, outdated, or improperly configured. This task focuses on scanning an authorized local network to identify active devices, open ports, and the services running on those ports.
 
